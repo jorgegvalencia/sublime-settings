@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"apiDoc Autocompletion",
+		"AutoFileName",
+		"Boxy Theme",
+		"Color Highlighter",
+		"ColorPicker",
+		"Emmet",
+		"FileBrowser",
+		"Git",
+		"GitGutter",
+		"HTML Extended",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Snippets",
+		"LESS",
+		"Material Theme",
+		"Monokai - Spacegray",
+		"Package Control",
+		"Seti_UI",
+		"Seti_UX",
+		"SideBarEnhancements",
+		"Theme - Cobalt2",
+		"TypeScript"
+	]
+}
